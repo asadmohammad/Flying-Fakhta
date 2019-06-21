@@ -1,4 +1,4 @@
-package com.mohammadasad.flyingfakhta;
+package //your-package
 
 import android.content.Context;
 import android.content.Intent;
