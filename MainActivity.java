@@ -1,4 +1,4 @@
-package com.mohammadasad.flyingfakhta;
+package //your-package
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
